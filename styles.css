@@ -1,0 +1,22 @@
+span.position {FONT-SIZE: 16pt; TEXT-ALIGN: center; FONT-FAMILY: Arial, Helvetica}
+
+span.name {FONT-SIZE: 22pt; TEXT-ALIGN: center; FONT-FAMILY: Arial, Helvetica}
+
+span.chapter {FONT-SIZE: 16pt; TEXT-ALIGN: left; FONT-FAMILY: Cambria, Times New Roman, Roman; FONT-WEIGHT: bold; MARGIN-BOTTOM: 12pt; MARGIN-TOP: 12pt}
+
+span.subcaption {FONT-SIZE: 14pt; TEXT-ALIGN: left; FONT-FAMILY: Cambria, Times New Roman, Roman; FONT-WEIGHT: bold}
+
+div.year {FONT-SIZE: 14pt; TEXT-ALIGN: left; FONT-FAMILY: Cambria, Times New Roman, Roman; FONT-WEIGHT: bold; MARGIN-BOTTOM: 12pt; MARGIN-TOP: 12pt}
+
+span.text {FONT-SIZE: 14pt; TEXT-ALIGN: left; FONT-FAMILY: Cambria, Times New Roman, Roman; FONT-WEIGHT: normal}
+
+span.links {FONT-SIZE: 13pt; TEXT-ALIGN: left; FONT-FAMILY: Cambria, Times New Roman, Roman; FONT-WEIGHT: normal}
+
+table.list {margin-left: 12pt;}
+
+td.list {PADDING-LEFT: 6pt;}
+
+span.special {FONT-SIZE: 14pt; TEXT-ALIGN: left; FONT-FAMILY: Cambria, Times New Roman, Roman; FONT-WEIGHT: normal; FONT-STYLE: italic}
+
+p {MARGIN-BOTTOM: 6pt; MARGIN-TOP: 0pt}
+li {MARGIN-LEFT: 12pt}

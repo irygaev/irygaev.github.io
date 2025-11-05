@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<meta name="yandex-verification" content="165b511e98d3e401" />
+</head>
+
+<body onLoad='redirect();'>
+</body>
+
+<script>
+
+	function redirect()
+	{
+		language = (navigator.language || navigator.userLanguage || 'en').substring(0,2);
+		
+		if (language == 'ru')
+			window.location = 'index_ru.html';
+		else
+			window.location = 'index_en.html';
+	}
+	
+</script>
+
+
+</html>
